@@ -1,4 +1,3 @@
-# kaa_nayyyy_bangettt
 <!DOCTYPE html>
 <html>
 <head>
@@ -71,8 +70,7 @@
 	<img src="love7.jpg"heigth="200px" width="200px">
 	<a href="badak3.html">ada lagi</a>
 </body>
-</html>
-<!DOCTYPE html>
+</html><!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
