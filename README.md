@@ -10,6 +10,7 @@
 	<h1>hallo kaa nayyyy</h1>
 	<h1>aku mau kasih liatt aku buat apaan</h1>
 	<a href="alvin2.html">pencet</a>
+	<img src="gambar.jpg">
 </body>
 </html>
 <!DOCTYPE html>
